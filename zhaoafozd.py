@@ -15,10 +15,29 @@
 # c= str(input())
 # # print(a,b,c)
 
-x = int(input())
-a = x // 100
-b = x // 10 % 10
-c = x % 10
-s = a + b + c
-print("Сумма цифр =",s)
-print("Корень =",s**(0.5))
+# x = int(input())
+# a = x // 100
+# b = x // 10 % 10
+# c = x % 10
+# s = a + b + c
+# print("Сумма цифр =",s)
+# print("Корень =",s**(0.5))
+
+# print('a = ')
+# a=input()
+# print('b = ')
+# b = input()
+# if a > b:
+#     print('a больше чем b')
+# else:
+#     print('b больше a')
+
+# print('x = ')
+# x = int(input())
+# if x > 0 or x == 0:
+#     y = 2*x-1
+# elif x < 0:
+#     y=x**2
+# print('y = ', y)
+
+
