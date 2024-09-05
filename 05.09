@@ -1,0 +1,37 @@
+# b1 = float(input('Введите длинну первого основания трапеции: '))
+# b2 = float(input('Введите длинну второго основания трапеции: '))
+# h = float(input('Введите высоту трапеции: '))
+# area = 0.5 * (b1 + b2) * h
+# print(f'Площадь трапеции равна: {area}')
+
+# a = input()
+# b = input()
+# c = input()
+# print(a, b, c)
+
+# a = int(input('Введите число х: '))
+# S = sum(int(digit) for digit in str(a))
+# k = S ** 0.5
+# print(f'S={S}, K={k}')
+
+# a = int(input('Введите первое число:' ))
+# b = int(input('Введите второе число:' ))
+# if a > b:
+#     print(f'{a} больше {b}')
+# else:
+#     print(f'{a} меньше {b}')
+
+# x = int(input())
+# if x >= 0:
+#     y = 2 * x - 1
+# else:
+#     y = x * x
+# print(y)
+
+# a = int(input())
+# b = int(input())
+# s = 1
+# while a < b:
+#     a = a * 1.1
+#     s = s + 1
+# print(s)
