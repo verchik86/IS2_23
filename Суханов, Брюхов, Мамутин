@@ -1,1 +1,48 @@
+#1
+
+# b_1 = int(input("введите первое число")) 
+# b_2 = int(input("введите второе число")) 
+# h = int(input("Введите высоту"))
+
+# print(b_1 * b_2 * h // 2) 
+
+#2
+
+# a = input("Введите первое слово")
+# b = input("Введите второе слово")
+# c = input("Введите третье слово")
+# print(a , b , c)
+
+#3
+
+# import math
+
+# x = int(input("Введите трёхзначное число x"))
+
+# S = sum(map(int, str(x)))
+
+# K = math.sqrt(S)
+
+# print(S)
+# print(K)
+
+#4
+
+
+# a = int(input("Введите первое число"))
+# b = int(input("Введите второе число"))
+
+# if(a> b):
+#     print("a больше b")
+# else:
+#     print("b больше a")
+
+#5
+
+# x = int(input("Введите знаение x"))
+# if(x >=0):
+#     y = 2 * x - 1
+# else:
+#     y = x**2
+# print(y)
 
