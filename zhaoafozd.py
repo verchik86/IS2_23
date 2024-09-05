@@ -40,4 +40,20 @@
 #     y=x**2
 # print('y = ', y)
 
+# print('Пробежал в первый день - ')
+# x=int(input())
+# print('нужно пробежать километров - ')
+# y=int(input())
+# z=1
+# while x < y:
+#     x=x+x*0.1
+#     z=z+1
+# print('Спортсмен пробежит', y, 'километров за', z, 'дней')
 
+# x,p,y = int(input()),int(input()),int(input())
+# p= p/100
+# z=0
+# while x<y:
+#     x=x+x*p
+#     z=z+1
+# print('За', z, 'лет')
