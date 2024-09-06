@@ -1,1 +1,1 @@
-Фомичев Даниил Дмитриевич ис2.23 прогульщик
+https://fallentwice.github.io/wweb/
