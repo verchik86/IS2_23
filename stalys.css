@@ -1,0 +1,49 @@
+body {background-color: rgb(153, 255, 21);}
+
+div p {color: red;}
+
+
+div h2 {color: blue;}
+
+#block p {color: green;}
+
+#block h2 { color: white;}
+
+
+.bbb { color: aqua;}
+
+
+#block .bbb {color: gold;}
+
+
+p.bbb { color: darkmagenta;}
+
+
+h2.bbb {color: darkmagenta;}
+
+
+#block p.bbb { color: crimson;}
+
+
+.bbb, .xxx { color: slateblue;}
+
+
+
+p.bbb,h2.xxx {color: bisque;}
+
+
+#block p.bbb,#block p.xxx {color: black;}
+
+
+.fff { color: saddlebrown;}
+
+
+.fff p {color: rebeccapurple;}
+
+
+p.fff {color: firebrick;}
+
+.fff .bbb {color: cadetblue;}
+
+
+.fff h2.bbb {color: red;text-decoration: underline;}
