@@ -1,1 +1,1 @@
-https://xeqqo.github.io/WWW1/
+https://xeqqo.github.io/72/
