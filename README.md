@@ -1,1 +1,1 @@
-https://fallentwice.github.io/wweb/
+https://fallentwice.github.io/WWW1/
